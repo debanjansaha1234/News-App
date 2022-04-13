@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-## This project will not run in the browser because the api key provided by News API will not work on hosting the website For that you have to buy the API key
+## This project will not run in the hosting website because the api key provided by News API will not work on hosting the website For that you have to buy the API key
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
